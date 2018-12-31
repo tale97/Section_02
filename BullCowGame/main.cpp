@@ -15,7 +15,7 @@ void PrintIntro();
 FText GetValidGuess();
 void PlayGame();
 bool AskToPlayAgain();
-void GameSummary();
+// void GameSummary();
 
 FBullCowGame BCGame; //instantiate new game
 
