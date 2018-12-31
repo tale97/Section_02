@@ -1,1 +1,1 @@
-# A simple bulls and cows!
+# A simple bulls and cows game!
